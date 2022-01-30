@@ -11,4 +11,5 @@ practica de la teoria vista en semanas anteriores
       
     - Adicionalmente se hizo un ejemplo del libro "Fundamentos de programación". Para calcular la deprecación en un automovil pasados 6 años.
 
-2. Carpeta del [23 de enero](https://github.com/Chapsjrl/richie-class/tree/main/Programas/01_23)
+2. Carpeta del [23 de enero](https://github.com/Chapsjrl/richie-class/tree/main/Programas/01_23):
+    - Carpeta con ejercios en swift del libro "Fundamentos de programación".
